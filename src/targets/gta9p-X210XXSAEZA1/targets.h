@@ -9,7 +9,7 @@
 #endif
 #ifndef BUILD_FINGERPRINT
 #define BUILD_FINGERPRINT \
-  "samsung/gta9p/gta9p:14/UP1A.231005.007/X216BXXU1AXA1:user/release-keys"
+  "samsung/gta9pwifixx/gta9pwifi:16/BP2A.250605.031.A3/X210XXSAEZA1:user/release-keys"
 #endif
 
 #define KIMAGE_TEXT_BASE 0xffffffc008000000ULL
